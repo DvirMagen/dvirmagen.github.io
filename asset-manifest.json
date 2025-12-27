@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2dd52b03.css",
-    "main.js": "/static/js/main.06615105.js",
+    "main.css": "/static/css/main.0865f625.css",
+    "main.js": "/static/js/main.cd2e1531.js",
     "static/js/453.0472fe85.chunk.js": "/static/js/453.0472fe85.chunk.js",
     "static/media/profile-page.JPG": "/static/media/profile-page.96a71eb9e74744033df7.JPG",
     "static/media/Dvir_Magen_Resume_Logo.png": "/static/media/Dvir_Magen_Resume_Logo.3073edc47adf6669e63e.png",
@@ -9,12 +9,12 @@
     "static/media/github-logo.svg": "/static/media/github-logo.a013fa989b433416528d9154544e4423.svg",
     "static/media/linkedin-logo.svg": "/static/media/linkedin-logo.b69a9637c8e2e0204cf024d5bfa61175.svg",
     "static/media/email-logo.svg": "/static/media/email-logo.b814fd4ed6c5b0c12abde40f95428318.svg",
-    "main.2dd52b03.css.map": "/static/css/main.2dd52b03.css.map",
-    "main.06615105.js.map": "/static/js/main.06615105.js.map",
+    "main.0865f625.css.map": "/static/css/main.0865f625.css.map",
+    "main.cd2e1531.js.map": "/static/js/main.cd2e1531.js.map",
     "453.0472fe85.chunk.js.map": "/static/js/453.0472fe85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dd52b03.css",
-    "static/js/main.06615105.js"
+    "static/css/main.0865f625.css",
+    "static/js/main.cd2e1531.js"
   ]
 }
