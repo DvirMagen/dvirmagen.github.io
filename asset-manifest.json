@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.02ae449f.css",
+    "main.css": "/static/css/main.0a8af3c3.css",
     "main.js": "/static/js/main.d5e86f24.js",
     "static/media/dvir-avatar.png": "/static/media/dvir-avatar.41ae08931b890b445f32.png",
     "static/media/dvir-reveal.png": "/static/media/dvir-reveal.41ae08931b890b445f32.png",
@@ -36,11 +36,11 @@
     "static/media/email-logo.svg": "/static/media/email-logo.b814fd4ed6c5b0c12abde40f95428318.svg",
     "static/media/resend-dark-mode.svg": "/static/media/resend-dark-mode.caf285cd26bd1dfb388a1785e6ea3374.svg",
     "static/media/resend-light-mode.svg": "/static/media/resend-light-mode.3e58ee00fb9d4b0fd84c442648680b07.svg",
-    "main.02ae449f.css.map": "/static/css/main.02ae449f.css.map",
+    "main.0a8af3c3.css.map": "/static/css/main.0a8af3c3.css.map",
     "main.d5e86f24.js.map": "/static/js/main.d5e86f24.js.map"
   },
   "entrypoints": [
-    "static/css/main.02ae449f.css",
+    "static/css/main.0a8af3c3.css",
     "static/js/main.d5e86f24.js"
   ]
 }
