@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.69dc6aa6.css",
-    "main.js": "/static/js/main.a7443e6e.js",
+    "main.css": "/static/css/main.484f7e22.css",
+    "main.js": "/static/js/main.cda080a6.js",
     "static/media/dvir-avatar.png": "/static/media/dvir-avatar.41ae08931b890b445f32.png",
     "static/media/CosmicRace-1.png": "/static/media/CosmicRace-1.3413ccbcb5f2ce235908.png",
-    "static/media/dvir-memoji.png": "/static/media/dvir-memoji.50f3e0b59dc52d6bca8e.png",
+    "static/media/dvir-memoji-fixed.png": "/static/media/dvir-memoji-fixed.57f9903945516e50bc1a.png",
     "static/media/CosmicRace-2.jpg": "/static/media/CosmicRace-2.bcc6eb00e857391586e0.jpg",
     "static/media/reactjs.png": "/static/media/reactjs.f5a08ab9c62569b9f634.png",
     "static/media/CosmicRace-3.png": "/static/media/CosmicRace-3.940f2e3983f56492ad65.png",
@@ -34,11 +34,11 @@
     "static/media/email-logo.svg": "/static/media/email-logo.b814fd4ed6c5b0c12abde40f95428318.svg",
     "static/media/resend-dark-mode.svg": "/static/media/resend-dark-mode.caf285cd26bd1dfb388a1785e6ea3374.svg",
     "static/media/resend-light-mode.svg": "/static/media/resend-light-mode.3e58ee00fb9d4b0fd84c442648680b07.svg",
-    "main.69dc6aa6.css.map": "/static/css/main.69dc6aa6.css.map",
-    "main.a7443e6e.js.map": "/static/js/main.a7443e6e.js.map"
+    "main.484f7e22.css.map": "/static/css/main.484f7e22.css.map",
+    "main.cda080a6.js.map": "/static/js/main.cda080a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.69dc6aa6.css",
-    "static/js/main.a7443e6e.js"
+    "static/css/main.484f7e22.css",
+    "static/js/main.cda080a6.js"
   ]
 }
